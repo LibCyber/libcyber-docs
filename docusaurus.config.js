@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'LibCyber', // Usually your GitHub org/user name.
   projectName: 'libcyber-docs', // Usually your repo name.
   themeConfig: {
@@ -14,7 +14,7 @@ module.exports = {
       title: 'LibCyber 用户手册',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -27,6 +27,10 @@ module.exports = {
           href: 'https://github.com/LibCyber/libcyber',
           label: 'GitHub',
           position: 'right',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'left',
         },
       ],
     },
@@ -88,4 +92,8 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'zh-cn',
+    locales: ['zh-cn']
+  }
 };
