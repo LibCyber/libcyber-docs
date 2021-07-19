@@ -12,7 +12,7 @@ sidebar_position: 3
 
 
 ### 下载，安装，启动
-- [点击此处](https://panel.libcyber.xyz/clients/LibCyber-V1.0.0.exe)
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.0.0.exe) 国内网盘地址:[https://wwi.lanzoui.com/iETjqrmnmla](https://wwi.lanzoui.com/iETjqrmnmla) 密码:3yo5
 - 下载的是Windows安装包，双击运行后一键安装
 
 - 安装完毕后，在桌面可以看到 LibCyber Desktop 软件

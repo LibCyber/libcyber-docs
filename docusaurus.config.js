@@ -9,6 +9,7 @@ module.exports = {
   favicon: 'img/favicon.png',
   organizationName: 'LibCyber', // Usually your GitHub org/user name.
   projectName: 'libcyber-docs', // Usually your repo name.
+  noIndex: true,
   themeConfig: {
     navbar: {
       title: 'LibCyber 用户手册',
@@ -75,6 +76,21 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} LibCyber, Inc. Built with ❤️.`,
     },
+    // algolia: {
+    //   apiKey: 'YOUR_API_KEY',
+    //   indexName: 'dev_libcyber',
+
+    //   // Optional: see doc section below
+    //   contextualSearch: true,
+
+    //   // Optional: see doc section below
+    //   appId: 'VO30QJT5M2',
+
+    //   // Optional: Algolia search parameters
+    //   searchParameters: {},
+
+    //   //... other Algolia params
+    // },
   },
   presets: [
     [
