@@ -12,7 +12,7 @@ sidebar_position: 3
 
 
 ### 下载，安装，启动
-- [点击此处](https://panel.libcyber.xyz/clients/LibCyber-Win.zip)下载 ，国内备用链接：[https://www.lanzoui.com/ieVV4gq7z1a](https://www.lanzoui.com/ieVV4gq7z1a) 密码:hrzm
+- [点击此处](https://panel.libcyber.xyz/clients/LibCyber-Win.zip)下载 ，国内备用链接：[https://wwi.lanzoui.com/ieVV4gq7z1a](https://wwi.lanzoui.com/ieVV4gq7z1a) 密码:hrzm
 - 下载的是压缩包，务必**解压**到文件夹中再打开！
 
 :::danger

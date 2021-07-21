@@ -9,7 +9,7 @@ sidebar_position: 1
 :::
 
 ### 下载，安装，启动
-- [点击此处](https://panel.libcyber.xyz/clients/libcyber-android.apk)下载客户端，国内备用链接：[https://www.lanzous.com/ia6x1ch](https://www.lanzous.com/ia6x1ch) 密码:aofd
+- [点击此处](https://panel.libcyber.xyz/clients/libcyber-android.apk)下载客户端，国内备用链接：[https://wwi.lanzoui.com/ia6x1ch](https://wwi.lanzoui.com/ia6x1ch) 密码:aofd
 
 - 安装并启动 
 
