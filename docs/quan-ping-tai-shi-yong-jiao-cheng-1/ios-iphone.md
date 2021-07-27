@@ -21,7 +21,7 @@ sidebar_position: 2
 
 - 第一步，获取用于下载App的苹果ID，普通节点及以上用户自助提取方法如下：
 
-- 打开网站[节点列表](https://panel.libcyber.xyz/nodeList)页面，找到叫做iOS账户信息的项目，如下图：
+- 打开网站节点列表（[点我跳转](https://panel.libcyber.xyz/nodeList)）页面，找到叫做iOS账户信息的项目，如下图：
 
 ![找到ID信息的节点][find-id-info]
 

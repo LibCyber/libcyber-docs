@@ -12,7 +12,7 @@ sidebar_position: 3
 
 
 ### 下载，安装，启动
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.0.0.exe) 国内网盘地址:[https://wwi.lanzoui.com/iETjqrmnmla](https://wwi.lanzoui.com/iETjqrmnmla) 密码:3yo5
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.1.1.exe) 国内网盘下载:https://wwi.lanzoui.com/izPK9run2if 密码:ewbm
 - 下载的是Windows安装包，双击运行后一键安装
 
 - 安装完毕后，在桌面可以看到 LibCyber Desktop 软件
@@ -45,7 +45,8 @@ sidebar_position: 3
 
 ![选择节点][select-node]
 
-- 点击连接🚀
+- **点击连接**🚀
+- 当看到连接图标变成红色断开标志时，就是连接上了
 - 打开浏览器，关闭同类功能的插件（如**谷歌助手，优酷解锁，华人回国**等可能产生功能冲突），测试一下，这时候应该就可以上外网了。
 
 ### 成功上网

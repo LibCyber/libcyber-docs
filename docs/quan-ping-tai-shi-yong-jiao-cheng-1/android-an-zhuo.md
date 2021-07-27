@@ -35,7 +35,7 @@ sidebar_position: 1
 
 ![点击添加订阅][add-sub03]
 
-- 点击打开[这个网页](https://panel.libcyber.xyz/nodeList)，复制里面显示的“订阅服务”里的链接，复制到app里面点击确定，链接如下图格式
+- 打开网站节点列表（[点我跳转](https://panel.libcyber.xyz/nodeList)）页面，复制里面显示的“订阅服务”里的链接，复制到app里面点击确定，链接如下图格式
 
 ![粘贴订阅链接][paste-sub-link]
 
