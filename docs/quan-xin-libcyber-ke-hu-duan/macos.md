@@ -14,7 +14,7 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.1.1.dmg) 国内网盘下载:https://wwi.lanzoui.com/imXFFrumzuj 密码:g24r
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.1.0.dmg) 国内网盘下载:https://wwi.lanzoui.com/iwIKHsqxeij 密码:at20
 
 ![软件图标][dmg-icon]
 

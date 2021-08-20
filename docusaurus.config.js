@@ -25,7 +25,7 @@ module.exports = {
           label: '教程',
         },
         {
-          href: 'https://github.com/LibCyber/libcyber',
+          href: 'https://github.com/LibCyber',
           label: 'GitHub',
           position: 'right',
         },
