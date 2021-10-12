@@ -100,7 +100,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/LibCyber/libcyber-docs/edit/master/website/',
+            'https://github.com/LibCyber/libcyber-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
