@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "LibCyber User Manual",
+    "description": "The title in the navbar"
+  },
+  "item.label.教程": {
+    "message": "Tutorial",
+    "description": "Navbar item with label 教程"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

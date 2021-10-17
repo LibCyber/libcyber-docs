@@ -14,7 +14,7 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.2.dmg) 国内网盘下载:https://wwi.lanzoui.com/iOkfvv9xang 密码:9n4o
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.3.dmg) 中国大陆网盘下载:https://wwi.lanzoui.com/immcevfsbmh 密码:6qm1
 
 ![软件图标][dmg-icon]
 
@@ -84,6 +84,13 @@ sidebar_position: 4
 ### 购买/升级套餐、续费后必须操作
 
 购买商品或续费后，如果节点没有更新，请退出登录后重新登陆一次
+
+---
+### 疑难解答
+
+- 打开任何网站都显示 `400 Bad Request`
+
+回答：电脑时间校准为北京时间，然后退出客户端后，重启一下电脑系统，再打开软件重新连接。如果还是无法使用，则可能是系统版本过旧，更新系统或者使用兼容性更好的第三方客户端，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/macos.md)
 
 ---
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 # Windows
 
-点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2N.zip)下载，国内网盘链接：https://www.lanzous.com/i9exxba 密码:bbs9
+点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2N.zip)下载，中国大陆网盘链接：https://www.lanzous.com/i9exxba 密码:bbs9
 
 下载后解压到一个地方，打开文件夹后，运行下图应用程序
 

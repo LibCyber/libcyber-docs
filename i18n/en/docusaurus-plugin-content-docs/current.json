@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.全新LibCyber客户端": {
+    "message": "Brand new LibCyber client",
+    "description": "The label for category 全新LibCyber客户端 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.高速/专线节点兼容型客户端": {
+    "message": "Compatible client for High-speed node/Dedicated node plan",
+    "description": "The label for category 高速/专线节点兼容型客户端 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.普通节点兼容型客户端": {
+    "message": "Compatible client for Basic node plan",
+    "description": "The label for category 普通节点兼容型客户端 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.其他常见问题": {
+    "message": "Other FAQ",
+    "description": "The label for category 其他常见问题 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.优惠政策": {
+    "message": "Discount Policy",
+    "description": "The label for category 优惠政策 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.公告": {
+    "message": "Announcement",
+    "description": "The label for category 公告 in sidebar tutorialSidebar"
+  }
+}

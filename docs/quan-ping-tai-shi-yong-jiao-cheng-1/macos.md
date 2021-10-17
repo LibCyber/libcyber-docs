@@ -14,7 +14,7 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [点击此处](https://panel.libcyber.xyz/clients/ShadowsocksX-NG-R8-1.4.4.dmg)下载客户端。国内网盘下载:https://wwi.lanzoui.com/iOKz5kykaqf 密码:8abu
+- [点击此处](https://panel.libcyber.xyz/clients/ShadowsocksX-NG-R8-1.4.4.dmg)下载客户端。中国大陆网盘下载:https://wwi.lanzoui.com/iOKz5kykaqf 密码:8abu
 
 ![软件图标][dmg-icon]
 

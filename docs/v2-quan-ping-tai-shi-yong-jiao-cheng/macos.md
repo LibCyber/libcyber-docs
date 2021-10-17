@@ -4,7 +4,7 @@ sidebar_position: 4
 ---
 # macOS
 
-点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2U.dmg)下载，国内网盘下载地址：https://www.lanzous.com/i9fjadg 密码:f4br
+点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2U.dmg)下载，中国大陆网盘下载地址：https://www.lanzous.com/i9fjadg 密码:f4br
 
 打开安装包后，把软件拖进“访达”左侧的“应用程序”文件夹中
 

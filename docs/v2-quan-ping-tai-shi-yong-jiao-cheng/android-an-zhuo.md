@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ### 下载 V2NG
 
-点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2NG.apk)下载，国内网盘链接：https://www.lanzous.com/i9erscf 密码:caof
+点击[此处链接](https://panel.libcyber.xyz/clients/LibCyber-V2NG.apk)下载，中国大陆网盘链接：https://www.lanzous.com/i9erscf 密码:caof
 
 ### 添加订阅
 
