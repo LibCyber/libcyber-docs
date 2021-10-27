@@ -14,7 +14,7 @@ This page describes how to use the LibCyber ​​Desktop client on macOS
 
 (If you need **remote assistance** to complete all configurations, you can download the remote software at the bottom of this page, and then [click here](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6) Looking for customer service)
 
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.3.dmg) China-mainland network disk download: https://wwi.lanzoui.com/immcevfsbmh Password: 6qm1
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.dmg)
 
 ![Software Icon][dmg-icon]
 

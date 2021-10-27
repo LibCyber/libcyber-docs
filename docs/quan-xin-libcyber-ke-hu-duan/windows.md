@@ -12,7 +12,10 @@ sidebar_position: 3
 
 
 ### 下载，安装，启动
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.3.exe) 中国大陆网盘下载:https://wwi.lanzoui.com/iOYMcvfs47a 密码:cwq2
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.exe)
+
+- [大陆网盘地址](https://wwi.lanzoui.com/ig6tbvu5dti) 访问密码:9mq0
+
 - 下载的是Windows安装包，双击运行后一键安装
 
 - 安装完毕后，在桌面可以看到 LibCyber Desktop 软件
@@ -62,6 +65,10 @@ sidebar_position: 3
 - 打开任何网站都显示 `400 Bad Request`
 
 回答：电脑时间校准为北京时间，然后退出客户端后，重启一下电脑系统，再打开软件重新连接。如果还是无法使用，则可能是系统版本过旧，更新系统或者使用兼容性更好的第三方客户端，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/windows.md)
+
+- 显示 `spawn libs\core-windows-amd64 ENOENT` 报错
+
+回答：杀毒软件把程序部分隔离了，检查杀毒软件（以及系统自带Windows Defender）隔离区，将软件解除隔离，并添加白名单。
 
 ---
 ## 远程协助

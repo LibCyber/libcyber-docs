@@ -8,13 +8,15 @@ sidebar_position: 4
 这个页面介绍如何使用macOS上的LibCyber Desktop客户端
 :::
 
-## 教程内容、
+## 教程内容
 
 ### 下载，安装，启动
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.3.dmg) 中国大陆网盘下载:https://wwi.lanzoui.com/immcevfsbmh 密码:6qm1
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.dmg) 
+
+- [大陆网盘地址](https://wwi.lanzoui.com/iJyuyvu546b) 访问密码:9o76
 
 ![软件图标][dmg-icon]
 

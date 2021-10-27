@@ -1,4 +1,43 @@
 {
+  "title": {
+    "message": "LibCyber User Manual",
+    "description": "Home page title"
+  },
+  "tagline": {
+    "message": "LibCyber is cool 😎",
+    "description": "Home page tagline"
+  },
+  "intro.start": {
+    "message": "Getting started in 5 Minutes ⏱️",
+    "description": "Intro page getting started button text"
+  },
+
+  "feature.title.easy": {
+    "message": "Easy to use",
+    "description": "Intro page feature 1 title"
+  },
+  "feature.title.speed": {
+    "message": "High speed and stable",
+    "description": "Intro page feature 2 title"
+  },
+  "feature.title.expert": {
+    "message": "Professional team",
+    "description": "Intro page feature 3 title"
+  },
+  "feature.easy": {
+    "message": "LibCyber was designed from the beginning to be easy to install and used to give you fast access to overseas resources and support across Windows, macOS, mobile devices, routers, and more.",
+    "description": "Intro page feature 1"
+  },
+  "feature.speed": {
+    "message": "LibCyber focuses on speed and stability, making it the most stable and smooth tool you can use to study, work, and play without worrying about your online experience.",
+    "description": "Intro page feature 2"
+  },
+  "feature.expert": {
+    "message": "LibCyber members come from well-known enterprises such as Shopee and Microsoft, and their suppliers are all BGP backbone computer rooms. Multi-layer load balancing and intelligent routing are adopted.",
+    "description": "Intro page feature 3"
+  },
+
+
   "theme.NotFound.title": {
     "message": "Page Not Found",
     "description": "The title of the 404 page"

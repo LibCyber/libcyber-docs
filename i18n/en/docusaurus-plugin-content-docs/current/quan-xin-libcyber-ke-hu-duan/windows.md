@@ -12,8 +12,9 @@ This page describes how to use the LibCyber ​​Desktop client on Windows
 
 
 ### Download, install, start
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.3.exe) China-mainland network disk download: https://wwi.lanzoui.com/iOYMcvfs47a Password: cwq2
--Download the Windows installation package, double-click to run it and install it with one click
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.exe)
+
+- Download the Windows installation package, double-click to run it and install it with one click
 
 - After installation, you can see the LibCyber ​​Desktop software on the desktop
 

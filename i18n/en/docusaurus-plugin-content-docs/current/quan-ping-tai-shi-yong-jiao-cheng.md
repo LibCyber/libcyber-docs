@@ -3,7 +3,7 @@ sidebar_label: "How to Use"
 sidebar_position: 2
 ---
 
-# how to use
+# How to use
 
 :::note
 This page provides an index of LibCyber ​​client tutorials for major operating systems

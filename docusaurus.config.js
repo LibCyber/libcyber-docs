@@ -1,3 +1,4 @@
+// /** @type {import('@docusaurus/Translate').Translate} */
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'LibCyber 用户手册',
@@ -56,7 +57,7 @@ module.exports = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/libcyber',
+              href: 'https://discord.gg/HAwQhGPBNZ',
             },
             {
               label: 'Twitter',
@@ -111,5 +112,25 @@ module.exports = {
   i18n: {
     defaultLocale: 'zh-cn',
     locales: ['zh-cn', 'en']
-  }
+  },
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        language: ["en", "zh"],
+      },
+    ],
+    function crisp(context, options) {
+      return {
+        name: 'crisp',
+        injectHtmlTags({content}) {
+          return {
+            postBodyTags: [`<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>`],
+          };
+        },
+      };
+    },
+  ],
 };
