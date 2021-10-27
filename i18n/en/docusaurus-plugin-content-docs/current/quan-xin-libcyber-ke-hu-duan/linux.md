@@ -37,10 +37,20 @@ ARM64 architecture download address:
 
 Troubleshooting:
 
-- Encountered `error while loading shared libraries: libXss.so.1` related errors
+1. If encountered `permission denied` related errors
 
-Execute the following commands in the terminal (**choose correct command for Linux distributions**)
+- Execute the following commands in the terminal
+```shell
+chmod +x LibCyber*
+```
+- Run `./LibCyber*` again
+
+2. If encountered `error while loading shared libraries: libXss.so.1` related errors
+
+- Execute the following commands in the terminal (**choose correct command for Linux distributions**)
 ```shell
 sudo apt-get install -y libxss1 # Ubuntu/Debian
 # sudo yum install -y libXScrnSaver # Centos/Fedora
 ```
+
+- Run `./LibCyber*` again

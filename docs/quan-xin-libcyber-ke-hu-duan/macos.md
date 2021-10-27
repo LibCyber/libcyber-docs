@@ -16,7 +16,7 @@ sidebar_position: 4
 
 - [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.dmg) 
 
-- [大陆网盘地址](https://wwi.lanzoui.com/iJyuyvu546b) 访问密码:9o76
+- 大陆网盘地址: [https://wwi.lanzoui.com/iJyuyvu546b](https://wwi.lanzoui.com/iJyuyvu546b) 访问密码:9o76
 
 ![软件图标][dmg-icon]
 

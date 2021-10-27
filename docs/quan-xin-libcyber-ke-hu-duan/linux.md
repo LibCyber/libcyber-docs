@@ -17,7 +17,7 @@ sidebar_label: "Linux"
 
 - [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.AppImage)
 
-- [大陆网盘地址](https://wwi.lanzoui.com/iKo6Uvu512j) 访问密码:h95t
+- 大陆网盘地址: [https://wwi.lanzoui.com/iKo6Uvu512j](https://wwi.lanzoui.com/iKo6Uvu512j) 访问密码:h95t
 
 :::note
 ARM64架构下载地址: 
@@ -37,10 +37,21 @@ ARM64架构下载地址:
 
 疑难解答：
 
-- 遇到 `error while loading shared libraries: libXss.so.1` 相关报错
+1. 如果遇到 `permission denied` 相关错误
+
+- 在终端执行以下命令
+```shell
+chmod +x LibCyber*
+```
+
+- 重试一下在终端运行 `./LibCyber*`
+
+2. 如果遇到 `error while loading shared libraries: libXss.so.1` 相关报错
 
 在终端执行以下命令（**选择对应发行版本的指令运行**）
 ```shell
 sudo apt-get install -y libxss1 # Ubuntu/Debian
 # sudo yum install -y libXScrnSaver # Centos/Fedora
 ```
+
+- 重试一下在终端运行 `./LibCyber*`

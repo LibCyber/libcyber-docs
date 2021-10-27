@@ -14,7 +14,7 @@ sidebar_position: 3
 ### 下载，安装，启动
 - [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.exe)
 
-- [大陆网盘地址](https://wwi.lanzoui.com/ig6tbvu5dti) 访问密码:9mq0
+- 大陆网盘地址: [https://wwi.lanzoui.com/ig6tbvu5dti](https://wwi.lanzoui.com/ig6tbvu5dti) 访问密码:9mq0
 
 - 下载的是Windows安装包，双击运行后一键安装
 
