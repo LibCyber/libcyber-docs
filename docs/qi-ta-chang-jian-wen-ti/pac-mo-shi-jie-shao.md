@@ -1,5 +1,7 @@
 # PAC模式介绍
 
+> 该功能仅限兼容性客户端使用
+
 该页主要讲解PAC模式。右键纸飞机程序，其中PAC菜单的选项均为对 SSR 的PAC文件进行操作的选项，如果你不使用“PAC模式”代理，你可以直接忽略。
 
 右键飞机-选择PAC
@@ -20,5 +22,5 @@
 4. 其他模式不常用可以自行脑补。
 
 
-[pac-in-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/faq/pac-in-menu.jpg "pac菜单"
-[pac-full-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/faq/pac-full-menu.jpg "所有pac规则"
+[pac-in-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/pac-in-menu.jpg "pac菜单"
+[pac-full-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/pac-full-menu.jpg "所有pac规则"

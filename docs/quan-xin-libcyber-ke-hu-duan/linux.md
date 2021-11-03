@@ -12,17 +12,18 @@ sidebar_label: "Linux"
 :::
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
+## 教程内容
 
 ### 下载，安装，启动
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.AppImage)
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.AppImage)
 
-- 大陆网盘地址: [https://wwi.lanzoui.com/iKo6Uvu512j](https://wwi.lanzoui.com/iKo6Uvu512j) 访问密码:h95t
+- 大陆网盘地址下载:https://wwi.lanzoui.com/iRduuw3o9dg 密码:fbof
 
 :::note
 ARM64架构下载地址: 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5-arm64.AppImage) 
-- [大陆网盘地址](https://wwi.lanzoui.com/iVqnTvu52ad) 访问密码:45yg
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6-arm64.AppImage) 
+- 大陆网盘地址下载:https://wwi.lanzoui.com/i24gUw3o88f 密码:g0w6
 :::
 
 - 打开直接运行即可
@@ -35,7 +36,7 @@ ARM64架构下载地址:
 
 - 如果有报错，看下面疑难解答
 
-疑难解答：
+### 疑难解答
 
 1. 如果遇到 `permission denied` 相关错误
 

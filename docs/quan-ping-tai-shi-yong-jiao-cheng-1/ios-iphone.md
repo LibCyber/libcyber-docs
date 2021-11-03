@@ -8,9 +8,9 @@ sidebar_position: 2
 这个页面介绍如何使用iOS上的Shadowrocket客户端
 :::
 
-### 获取共享ID
+### 获取苹果共享ID
 :::tip
-苹果共享ID目前仅限**普通节点及以上**用户免费获取。有能力进行境外支付的用户，建议自行在外区ID购买Shadowrocket客户端使用。
+为了减少滥用情况，共享ID目前仅限**高速节点及以上**用户获取。下载完App后不保证后续更新，若追求稳定更新，请从 https://shop.libcyber.xyz 购买独享账号。有境外银行卡用户，建议自行购买Shadowrocket软件。
 :::
 
 ---
@@ -30,23 +30,22 @@ sidebar_position: 2
 ![查看ID][view-ios-id]
 
 - 在展示的信息中，第一行（原用于显示服务器）是ID邮箱，第三行是ID密码，其他信息不用理会。
-- 使用以上Apple ID信息**在App Store内登录**（千万不要在其他地方登录，否则可能**泄露你的隐私信息**！）
-- 使用以上Apple ID信息**在App Store内登录**（千万不要在其他地方登录，否则可能**泄露你的隐私信息**！）
-- 使用以上Apple ID信息**在App Store内登录**（千万不要在其他地方登录，否则可能**泄露你的隐私信息**！）
+- 使用以上苹果账号信息**在App Store内登录**（千万不要在其他地方登录，否则可能**泄露你的隐私信息**！）
 
 ### 登录App Store，下载软件
 :::danger
-注意按照下面教程进行登录操作和下载操作，不要自行判断操作！
+登陆如果显示**两步验证**相关信息，则选择“其它选项(Other option)”=>“不启用(Not upgrade)”
 :::
 
 - 在App Store点击**右上角**个人头像，一直往下翻，直到看到“登出”按钮，点击它推出自己的账户，然后登录我们的ID。
-- 登陆如果显示**两步验证**相关信息，则选择“其它选项”=>“不启用”
+
+- 登陆如果显示**两步验证**相关信息，则选择“其它选项(Other option)”=>“不启用(Not upgrade)”
 
 :::tip
 登录成功后App Store可能会重新加载，如果长时间没反应，尝试重开App Store
 :::
 
-- 成功登录后，再点击**右上角**头像进入到个人页面，点击**Purchased已购项目**-选择家庭成员Vanps-进入到一个app列表，点击Shadowrocket右侧的下载按钮。
+- 成功登录后，再点击**右上角**头像进入到个人页面，点击**Purchased已购项目**-进入到一个已购app列表，点击Shadowrocket右侧的下载按钮，认准正版的图标，不要下载错了。
 - **认准**Shadowrocket的图标，不要下载错了！如果找不到就是没有成功切换ID。
 
 ![认准图标][app-icon]
@@ -62,7 +61,7 @@ sidebar_position: 2
 :::
 
 ### 添加订阅，加载节点
-- 打开 Shadowrocket后，用 Safari浏览器点击打开-->[这个页面](https://panel.libcyber.xyz/nodeList)。在打开的网页中，点击一键订阅(必须)和一键导入规则(可选)，如下图：
+- 打开 Shadowrocket后，用 **Safari浏览器**打开LibCyber后台的**节点列表**页面-->[点我跳转](https://panel.libcyber.xyz/nodeList)。在打开的网页中，点击一键订阅(必须)和一键导入规则(可选)，如下图：
 
 :::tip
 如果是微信/QQ/百度app中打开该页，不支持一键订阅，需点击图中第一个青色二维码按钮，查看订阅二维码。然后用小火箭app扫码添加订阅
@@ -117,16 +116,16 @@ sidebar_position: 2
 
 
 
-[find-id-info]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/find-id-info.jpg "找到ID信息的节点"
-[view-ios-id]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/view-ios-id.jpg "查看ID"
-[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/app-icon.jpg "认准图标"
-[open-app]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/open-app.jpg "打开app"
-[one-click-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/one-click-sub.jpg "一键订阅"
-[updating]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/updating.jpg "更新中"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/select-node.jpg "选择节点"
-[authorize-in-app]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/authorize-in-app.jpg "app内授权"
-[authorize-in-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/authorize-in-setting.jpg "指纹/人脸授权"
-[connect-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/connect-success.jpg "连接成功"
-[open-safari]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/open-safari.jpg "认准Safari浏览器"
-[enter-url]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/enter-url.jpg "输入网址"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/shadow-ios/success.jpg "成功打开网页"
+[find-id-info]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/find-id-info.jpg "找到ID信息的节点"
+[view-ios-id]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/view-ios-id.jpg "查看ID"
+[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/app-icon.jpg "认准图标"
+[open-app]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/open-app.jpg "打开app"
+[one-click-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/one-click-sub.jpg "一键订阅"
+[updating]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/updating.jpg "更新中"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/select-node.jpg "选择节点"
+[authorize-in-app]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/authorize-in-app.jpg "app内授权"
+[authorize-in-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/authorize-in-setting.jpg "指纹/人脸授权"
+[connect-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/connect-success.jpg "连接成功"
+[open-safari]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/open-safari.jpg "认准Safari浏览器"
+[enter-url]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/enter-url.jpg "输入网址"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-ios/success.jpg "成功打开网页"

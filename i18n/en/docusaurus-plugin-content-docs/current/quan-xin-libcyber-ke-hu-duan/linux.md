@@ -15,14 +15,11 @@ Due to the large number of Linux distributions, only Linux distributions that us
 
 ### Download, install, start
 
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.AppImage)
-
-- [Mainland Network Disk Download Address](https://wwi.lanzoui.com/iKo6Uvu512j) Access password: h95t
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.AppImage)
 
 :::note
 ARM64 architecture download address:
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5-arm64.AppImage)
-- [Mainland Network Disk Download Address](https://wwi.lanzoui.com/iVqnTvu52ad) Access password: 45yg
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6-arm64.AppImage)
 :::
 
 - Open and run directly

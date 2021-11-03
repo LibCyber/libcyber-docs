@@ -10,13 +10,16 @@ sidebar_position: 3
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
+## 教程内容
 
 ### 下载，安装，启动
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.exe)
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.exe.zip)
 
-- 大陆网盘地址: [https://wwi.lanzoui.com/ig6tbvu5dti](https://wwi.lanzoui.com/ig6tbvu5dti) 访问密码:9mq0
+- 大陆网盘地址下载:https://wwi.lanzoui.com/iHVV3w3oejc 密码:856e
 
-- 下载的是Windows安装包，双击运行后一键安装
+- 下载后打开，双击安装程序运行一键安装。⚠️如果出现 Smart Screen 蓝屏拦截，点击“高级信息”=>“仍要运行”。本软件安全无毒，可用任何国际知名杀毒软件检查。由于管制，暂未于大陆注册，故出现此提示。
+
+![SmartScreen][smartscreen]
 
 - 安装完毕后，在桌面可以看到 LibCyber Desktop 软件
 
@@ -35,7 +38,7 @@ sidebar_position: 3
 - 启动软件后，输入网站上注册时使用的邮箱账号和密码。
 
 :::caution
-登录失败，或者的话多半是网络连接不稳定，或者账号和密码输入错误
+如果密码正确仍然登陆失败，请尝试优化系统DNS设置（DNS修改方法，[点此查看](../qi-ta-chang-jian-wen-ti/xiu-gai-dns-windows.md)）
 :::
 
 ![登录][login]
@@ -53,6 +56,9 @@ sidebar_position: 3
 - 打开浏览器，关闭同类功能的插件（如**谷歌助手，优酷解锁，华人回国**等可能产生功能冲突），测试一下，这时候应该就可以上外网了。
 
 ### 成功上网
+:::caution
+如果访问任何网站显示400 Bad Request，则是Windows系统网络组件过时，查看本页面底部疑难解答
+:::
 ![成功上网][success]
 
 ### 购买/升级套餐、续费后必须操作
@@ -62,9 +68,13 @@ sidebar_position: 3
 ---
 ### 疑难解答
 
+- 软件内无法登陆，一直显示密码错误或者网络问题
+
+回答：您所在地区的宽带运营商对国际网络访问有所干扰，请尝试优化系统DNS设置（DNS修改方法，[点此查看](../qi-ta-chang-jian-wen-ti/xiu-gai-dns-windows.md)）
+
 - 打开任何网站都显示 `400 Bad Request`
 
-回答：电脑时间校准为北京时间，然后退出客户端后，重启一下电脑系统，再打开软件重新连接。如果还是无法使用，则可能是系统版本过旧，更新系统或者使用兼容性更好的第三方客户端，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/windows.md)
+回答：电脑时间校准为北京时间，然后退出客户端后，重启一下电脑系统，再打开软件重新连接。如果还是无法使用，则可能是系统版本过旧，更新系统或者使用兼容性客户端，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/windows.md)
 
 - 显示 `spawn libs\core-windows-amd64 ENOENT` 报错
 
@@ -79,12 +89,13 @@ sidebar_position: 3
 - 安装时，如果出现用途选项，选择“个人使用”，不要选择商业用途，否则需要付费。
 - 安装成功后打开，把软件里面显示的ID和密码告诉客服即可，[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服。
 
-[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/app-in-dir.jpg "在文件夹中打开软件"
-[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/firewall-allow.jpg "允许通过防火墙上网"
-[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/login.jpg "登录"
-[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/app-in-dock.jpg "任务栏中的app"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/select-node.jpg "选择节点"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/success.jpg "成功上网"
+[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/app-in-dir.jpg "在文件夹中打开软件"
+[smartscreen]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/smartscreen.jpg "SmartScreen"
+[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/firewall-allow.jpg "允许通过防火墙上网"
+[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/login.jpg "登录"
+[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/app-in-dock.jpg "任务栏中的app"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/select-node.jpg "选择节点"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/success.jpg "成功上网"
 
 
 

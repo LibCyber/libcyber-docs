@@ -15,11 +15,11 @@ Telegram Messenger 是一个跨平台的国际实时通讯应用，它的客户�
 
 用户可以相互交换加密与自析构的消息，以及照片、影片、文件，支持所有的文件类型。
 
-官方网站有正式发布 Android、iOS、Mac OS X 与 Windows的版本。
+官方网站有正式发布 Android、iOS、macOS 与 Windows的版本。
 
 Telegram官方网站：https://telegram.org/
 
-简单的说就是一个安全的纯粹通讯聊天软件。 **正是因为不受国家监管，对用户信息高度保密，所以服务器和官网都被墙了，使用这个软件需要挂代理才能使用。**
+简单的说就是一个安全的纯粹通讯聊天软件。 **正是因为没有完全受大陆监管，对用户信息高度保密，所以服务器和官网都被墙了，使用这个软件需要挂代理才能使用。**
 
 ---
 
@@ -28,7 +28,7 @@ Telegram官方网站：https://telegram.org/
 ### Telegram安装
 
 :::tip 下载地址
-[PC客户端](https://desktop.telegram.org/)， [Android客户端](https://play.google.com/store/apps/details?id=org.telegram.messenger)， [IOS客户端](https://itunes.apple.com/app/telegram-messenger/id686449807)， [MAC OS X客户端](https://macos.telegram.org/)， [Web网页客户端](https://telegram.org/dl/webogram)， 记得**挂代理（科学上网）**下载。
+[PC客户端](https://desktop.telegram.org/)， [Android客户端](https://play.google.com/store/apps/details?id=org.telegram.messenger)， [IOS客户端](https://itunes.apple.com/app/telegram-messenger/id686449807)， [macOS客户端](https://macos.telegram.org/)， [Web网页客户端](https://telegram.org/dl/webogram)， 记得**挂代理（富强）**下载。
 :::
 
 ### Telegram注册
@@ -39,7 +39,7 @@ Telegram官方网站：https://telegram.org/
 ![首页][tg-desk]
 
 
-然后就会让你输入你的 手机号，不过因为 Telegram的服务器被墙了，所以需要先设置代理才能 注册/登录。请使用本站提供的S-S-R服务进行访问。
+然后就会让你输入你的 手机号，不过因为 Telegram的服务器被墙了，所以需要先设置代理才能 注册/登录。请使用本站提供的代理上网服务进行访问。
 
 继续我们一开始的步骤，选择国家并输入你的手机号，注意别人除非加你好友，否则是无法看到手机号的。然后点击 NEXT 按钮继续。
 
@@ -61,5 +61,5 @@ Telegram官方网站：https://telegram.org/
 
 
 
-[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/tg/tg-desk.jpg "首页"
-[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/tg/sign-up.jpg "注册账户"
+[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/tg-desk.jpg "首页"
+[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/sign-up.jpg "注册账户"

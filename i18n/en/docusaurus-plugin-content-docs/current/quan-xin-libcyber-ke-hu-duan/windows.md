@@ -12,7 +12,7 @@ This page describes how to use the LibCyber ​​Desktop client on Windows
 
 
 ### Download, install, start
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.exe)
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.exe.zip)
 
 - Download the Windows installation package, double-click to run it and install it with one click
 
@@ -73,9 +73,9 @@ Answer: The computer time is calibrated to Beijing time, and then after exiting 
 - During installation, if there is a use option, select "Personal Use", do not select commercial use, otherwise you will need to pay.
 - After the installation is successful, open it and tell the customer service the ID and password displayed in the software, [click here](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa- fbeac29d2be6) Find customer service.
 
-[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/app-in-dir.jpg "Open the software in the folder "
-[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/firewall-allow.jpg "Allow Internet access through firewall"
-[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/login.jpg "Login"
-[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/app-in-dock.jpg "app in the taskbar"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/select-node.jpg "Select Node"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-windows/success.jpg "Successfully surfed the Internet"
+[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/app-in-dir.jpg "Open the software in the folder "
+[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/firewall-allow.jpg "Allow Internet access through firewall"
+[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/login.jpg "Login"
+[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/app-in-dock.jpg "app in the taskbar"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/select-node.jpg "Select Node"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-windows/success.jpg "Successfully surfed the Internet"

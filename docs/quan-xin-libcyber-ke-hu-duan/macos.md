@@ -14,19 +14,19 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.dmg) 
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.dmg) 
 
-- 大陆网盘地址: [https://wwi.lanzoui.com/iJyuyvu546b](https://wwi.lanzoui.com/iJyuyvu546b) 访问密码:9o76
+- 大陆网盘地址下载:https://wwi.lanzoui.com/idulnw3oblg 密码:23r2
 
 ![软件图标][dmg-icon]
 
 - 打开安装包，把左侧app拖到右侧应用程序文件夹
 
-- 点击dock栏启动器，进入软件菜单
+- 点击底部dock栏的启动器App，进入软件菜单
 
 ![打开app启动台][launchpad]
 
-- 单击LibCyber Desktop启动
+- 找到LibCyber Desktop，单击启动
 
 ![软件图标][app-icon]
 
@@ -56,7 +56,7 @@ sidebar_position: 4
 - 启动软件后，输入网站上注册时使用的邮箱账号和密码。
 
 :::caution
-登录失败，或者的话多半是网络连接不稳定，或者账号和密码输入错误
+如果密码正确仍然登陆失败，请尝试优化系统DNS设置（DNS修改方法，[点此查看](../qi-ta-chang-jian-wen-ti/xiu-gai-dns-macos.md)）
 :::
 
 ### 选择节点连接
@@ -90,6 +90,10 @@ sidebar_position: 4
 ---
 ### 疑难解答
 
+- 软件内无法登陆，一直显示密码错误或者网络问题
+
+回答：您所在地区的宽带运营商对国际网络访问有所干扰，请尝试优化系统DNS设置（DNS修改方法，[点此查看](../qi-ta-chang-jian-wen-ti/xiu-gai-dns-macos.md)）
+
 - 打开任何网站都显示 `400 Bad Request`
 
 回答：电脑时间校准为北京时间，然后退出客户端后，重启一下电脑系统，再打开软件重新连接。如果还是无法使用，则可能是系统版本过旧，更新系统或者使用兼容性更好的第三方客户端，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/macos.md)
@@ -109,14 +113,14 @@ sidebar_position: 4
 安装成功后打开，把软件里面**显示的ID和密码**告诉客服即可，[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服。
 
 
-[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/dmg-icon.jpg "安装包"
-[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/install.jpg "拖入应用程序文件夹安装"
-[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/launchpad.jpg "打开app启动台"
-[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/app-icon.jpg "软件图标"
-[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/first-launch-1.jpg "首次启动提示1"
-[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/authorize.jpg "初次使用授权"
-[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/first-launch-2.jpg "首次启动提示2"
-[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/running.jpg "后台运行状态"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/select-node.jpg "选择节点"
-[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/all-proxy.jpg "选择全局模式"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/success.jpg "大功告成"
+[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/dmg-icon.jpg "安装包"
+[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/install.jpg "拖入应用程序文件夹安装"
+[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/launchpad.jpg "打开app启动台"
+[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/app-icon.jpg "软件图标"
+[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-1.jpg "首次启动提示1"
+[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/authorize.jpg "初次使用授权"
+[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-2.jpg "首次启动提示2"
+[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/running.jpg "后台运行状态"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/select-node.jpg "选择节点"
+[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/all-proxy.jpg "选择全局模式"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/success.jpg "大功告成"

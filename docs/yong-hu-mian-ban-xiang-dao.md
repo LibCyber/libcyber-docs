@@ -79,12 +79,12 @@ _请妥善保管您的订阅链接，不要在任何公开场合展示，订阅�
 
 
 
-[user-center]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/user-center.jpg "个人中心"
-[nodelist]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/nodelist.jpg "节点列表1"
-[nodelist2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/nodelist2.jpg "节点列表2"
-[service]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/service.jpg "购买方案"
-[payment]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/payment.jpg "支付页面"
-[invoice]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/invoice.jpg "账单页面"
-[tickets]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/tickets.jpg "工单咨询页面"
-[invite-code]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/invite-code.jpg "邀请码页面"
-[referral]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/panel-guide/referral.jpg "推广返利"
+[user-center]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/user-center.jpg "个人中心"
+[nodelist]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/nodelist.jpg "节点列表1"
+[nodelist2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/nodelist2.jpg "节点列表2"
+[service]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/service.jpg "购买方案"
+[payment]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/payment.jpg "支付页面"
+[invoice]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/invoice.jpg "账单页面"
+[tickets]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/tickets.jpg "工单咨询页面"
+[invite-code]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/invite-code.jpg "邀请码页面"
+[referral]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/panel-guide/referral.jpg "推广返利"

@@ -14,7 +14,7 @@ This page describes how to use the LibCyber ​​Desktop client on macOS
 
 (If you need **remote assistance** to complete all configurations, you can download the remote software at the bottom of this page, and then [click here](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6) Looking for customer service)
 
-- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.5.dmg)
+- [Download address of this site](https://panel.libcyber.xyz/clients/LibCyber-V1.2.6.dmg)
 
 ![Software Icon][dmg-icon]
 
@@ -107,14 +107,14 @@ During installation, if there is a use option, select "Personal Use" instead of 
 After the installation is successful, open it, and tell the customer service the ID and password ** displayed in the software, [click here](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6) Find customer service.
 
 
-[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/dmg-icon.jpg "installation package"
-[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/install.jpg "Drag into the application folder to install"
-[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/launchpad.jpg "Open the app launch pad"
-[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/app-icon.jpg "Software Icon"
-[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/first-launch-1.jpg "First launch prompt 1"
-[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/authorize.jpg "Authorization for the first use"
-[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/first-launch-2.jpg "First launch prompt 2"
-[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/running.jpg "Background running status"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/select-node.jpg "Select Node"
-[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/all-proxy.jpg "Select global mode"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.1/assets/pirate-macos/success.jpg "You're done"
+[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/dmg-icon.jpg "installation package"
+[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/install.jpg "Drag into the application folder to install"
+[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/launchpad.jpg "Open the app launch pad"
+[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/app-icon.jpg "Software Icon"
+[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-1.jpg "First launch prompt 1"
+[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/authorize.jpg "Authorization for the first use"
+[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-2.jpg "First launch prompt 2"
+[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/running.jpg "Background running status"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/select-node.jpg "Select Node"
+[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/all-proxy.jpg "Select global mode"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/success.jpg "You're done"

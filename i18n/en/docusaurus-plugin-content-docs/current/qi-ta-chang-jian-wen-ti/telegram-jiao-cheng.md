@@ -61,5 +61,5 @@ After restarting, you will see the language changed to Chinese.
 
 
 
-[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/tg/tg-desk.jpg "Homepage"
-[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.0.0/assets/tg/sign-up.jpg "Sign up account"
+[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/tg-desk.jpg "Homepage"
+[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/sign-up.jpg "Sign up account"
