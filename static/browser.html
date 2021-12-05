@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>请升级你的浏览器</title>
+  <meta name="description" content="这是一个旧版IE升级提示页。">
+  <script src="https://support.dmeng.net/js/er3eport.js"></script>
+  <link rel="icon" type="image/png" href="https://support.dmeng.net/images/favicon.png">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <meta http-equiv="Cache-Control" content="no-transform"> 
+  <link type="text/css" rel="stylesheet" href="https://support.dmeng.net/css/support.style.css">
+</head>
+<body>
+<div class="page">
+<h1>请更换新版浏览器访问本站</h1>
+<h2 id="websiteLink"><a href="#"></a></h2>
+<p>你正在使用旧版 Internet Explorer（IE11以下版本或使用该内核的浏览器）。</p>
+<div class="hr"></div>
+<h2>请注意：微软对 Internet Explorer 的支持服务已终止</h2>
+<p>自2016年1月12日起，微软不再为 IE 11 及以下版本提供相应支持和更新。</p>
+<div class="hr"></div>
+<h2>更先进的浏览器</h2>
+<p class="targetline">推荐使用以下浏览器的最新版本。</p>
+<!-- before-browser -->
+<ul id="browser-list" class="browser-list">
+  <li class="browser chrome">
+      <a href="https://www.google.cn/intl/zh-CN/chrome/" id="browser-chrome-link"><img src="https://support.dmeng.net/images/chrome.png" width="34" height="34" alt="谷歌浏览器">谷歌浏览器 <span id="browser-chrome-badge">Google Chrome</span></a>
+  </li>
+  <li class="browser firefox">
+      <a href="https://www.firefox.com.cn/" id="browser-firefox-link"><img src="https://support.dmeng.net/images/firefox.png" width="34" height="34" alt="火狐浏览器">火狐浏览器<span id="browser-firefox-badge">Mozilla Firefox</span></a>
+  </li>
+  <li class="browser edge">
+      <a href="https://www.microsoft.com/zh-cn/edge" id="browser-edge-link"><img src="https://support.dmeng.net/images/edge.png" width="34" height="34" alt="微软浏览器">微软浏览器<span id="browser-edge-badge">Microsoft Edge</span></a>
+  </li>
+  <li class="browser se360">
+      <a href="https://browser.360.cn" id="browser-se360-link"><img src="https://support.dmeng.net/images/se360.png" width="34" height="34" alt="360安全浏览器">360安全浏览器<span id="browser-se360-badge">小白用户选择</span></a>
+  </li>
+  <li class="browser qqbrowser">
+      <a href="https://browser.qq.com/" id="browser-qqbrowser-link"><img src="https://support.dmeng.net/images/qqbrowser.png" width="34" height="34" alt="QQ浏览器">QQ浏览器<span id="browser-qqbrowser-badge">腾讯用户推荐</span></a>
+  </li>
+  <li class="browser clearleft"></li>
+</ul>
+<script>
+  document.getElementById('websiteLink').innerHTML = `<a href="http://`+window.location.host+`">`+window.location.host+`</a>`
+</script>
+</body>
+
+</html>
