@@ -34,11 +34,11 @@
 7. Finished
 
 
-[open-network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-network-setting.jpg "Open network set up"
-[network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/network-setting.jpg "Network Settings"
-[right-click-adapter]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/right-click-adapter.jpg "Open the adapter Attributes"
-[open-ipv4-property]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-ipv4-property.jpg "Open IPv4 Attributes"
-[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/fill-dns.jpg "Fill in DNS"
-[open-run]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-run.jpg "Open and run"
-[run-cmd]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/run-cmd.jpg "Start command line"
-[cmd-flushdns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/cmd-flushdns.jpg "Flush DNS"
+[open-network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-network-setting.jpg "Open network set up"
+[network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/network-setting.jpg "Network Settings"
+[right-click-adapter]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/right-click-adapter.jpg "Open the adapter Attributes"
+[open-ipv4-property]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-ipv4-property.jpg "Open IPv4 Attributes"
+[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/fill-dns.jpg "Fill in DNS"
+[open-run]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-run.jpg "Open and run"
+[run-cmd]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/run-cmd.jpg "Start command line"
+[cmd-flushdns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/cmd-flushdns.jpg "Flush DNS"

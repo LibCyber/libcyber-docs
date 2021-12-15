@@ -41,7 +41,7 @@ Then click the menu in the upper right corner (the three dots), select Settings,
 
 Select the node named in any country and click the icon in the lower right corner to connect. Authorization is required for the first link, just click Allow.
 
-[sub-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-android/sub-link.jpg "Copy Subscription Link"
-[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-android/sub-setting.jpg "Open subscription settings"
-[paste-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-android/paste-link.jpg "Paste Subscription Link"
-[update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-android/update-sub.jpg "Update Subscription"
+[sub-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/sub-link.jpg "Copy Subscription Link"
+[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/sub-setting.jpg "Open subscription settings"
+[paste-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/paste-link.jpg "Paste Subscription Link"
+[update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/update-sub.jpg "Update Subscription"

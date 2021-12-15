@@ -61,5 +61,5 @@ Telegram官方网站：https://telegram.org/
 
 
 
-[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/tg-desk.jpg "首页"
-[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/tg/sign-up.jpg "注册账户"
+[tg-desk]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/tg/tg-desk.jpg "首页"
+[sign-up]:https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/tg/sign-up.jpg "注册账户"

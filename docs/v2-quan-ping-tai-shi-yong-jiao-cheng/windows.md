@@ -45,11 +45,11 @@ sidebar_position: 3
 大功告成，可以浏览器上网了。
 
 
-[v2n-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-icon.jpg "应用图标"
-[v2n-back-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-back-icon.jpg "任务栏图标"
-[v2n-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-sub-setting.jpg "打开订阅设置"
-[v2n-add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-add-sub.jpg "添加订阅"
-[v2n-update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-update-sub.jpg "更新订阅"
-[v2n-update-node-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-update-node-success.jpg "订阅成功"
-[v2n-select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-select-node.jpg "选择节点"
-[v2n-select-pac]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-windows/v2n-select-pac.jpg "更新pac智能分流规则"
+[v2n-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-icon.jpg "应用图标"
+[v2n-back-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-back-icon.jpg "任务栏图标"
+[v2n-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-sub-setting.jpg "打开订阅设置"
+[v2n-add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-add-sub.jpg "添加订阅"
+[v2n-update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-update-sub.jpg "更新订阅"
+[v2n-update-node-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-update-node-success.jpg "订阅成功"
+[v2n-select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-select-node.jpg "选择节点"
+[v2n-select-pac]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-select-pac.jpg "更新pac智能分流规则"

@@ -14,9 +14,9 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.0.dmg) 
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.1.dmg) 
 
-- 大陆网盘地址下载:https://wwi.lanzouo.com/i0Rdxx9g1cb 密码:59h9
+- 大陆网盘地址下载:https://wwi.lanzouo.com/iXTcjxcg4yj 密码:3pmv
 
 ![软件图标][dmg-icon]
 
@@ -113,14 +113,14 @@ sidebar_position: 4
 安装成功后打开，把软件里面**显示的ID和密码**告诉客服即可，[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服。
 
 
-[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/dmg-icon.jpg "安装包"
-[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/install.jpg "拖入应用程序文件夹安装"
-[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/launchpad.jpg "打开app启动台"
-[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/app-icon.jpg "软件图标"
-[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-1.jpg "首次启动提示1"
-[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/authorize.jpg "初次使用授权"
-[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/first-launch-2.jpg "首次启动提示2"
-[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/running.jpg "后台运行状态"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/select-node.jpg "选择节点"
-[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/all-proxy.jpg "选择全局模式"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/pirate-macos/success.jpg "大功告成"
+[dmg-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/dmg-icon.jpg "安装包"
+[install]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/install.jpg "拖入应用程序文件夹安装"
+[launchpad]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/launchpad.jpg "打开app启动台"
+[app-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/app-icon.jpg "软件图标"
+[first-launch-1]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/first-launch-1.jpg "首次启动提示1"
+[authorize]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/authorize.jpg "初次使用授权"
+[first-launch-2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/first-launch-2.jpg "首次启动提示2"
+[running]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/running.jpg "后台运行状态"
+[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/select-node.jpg "选择节点"
+[all-proxy]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/all-proxy.jpg "选择全局模式"
+[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-macos/success.jpg "大功告成"

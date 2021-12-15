@@ -1,4 +1,4 @@
-# 修改 macOS 系统网络DNS设置
+# 修改 macOS 网络DNS设置
 
 1. 打开系统偏好设置
 
@@ -19,6 +19,6 @@
 
 8. 完毕
 
-[system-preferences]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-macos/system-preferences.jpg "系统偏好设置"
-[network]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-macos/network.jpg "网络设置"
-[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-macos/fill-dns.jpg "填写DNS"
+[system-preferences]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/system-preferences.jpg "系统偏好设置"
+[network]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/network.jpg "网络设置"
+[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/fill-dns.jpg "填写DNS"

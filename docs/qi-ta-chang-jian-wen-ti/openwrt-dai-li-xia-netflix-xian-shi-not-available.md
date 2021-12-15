@@ -1,4 +1,4 @@
-# Openwrt代理下Netflix显示Not Available
+# Openwrt代理下奈飞显示Not Available
 
 路由器上设置禁用ipv6
 

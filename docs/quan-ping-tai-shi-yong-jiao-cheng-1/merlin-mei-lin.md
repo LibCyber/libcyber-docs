@@ -33,7 +33,7 @@ sidebar_position: 5
 
 
 
-[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-merlin/sub-setting.jpg "打开更新管理"
-[add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-merlin/add-sub.jpg "添加订阅"
-[save-update]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-merlin/save-update.jpg "保存订阅"
-[updating]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/shadow-merlin/updating.jpg "更新中"
+[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/sub-setting.jpg "打开更新管理"
+[add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/add-sub.jpg "添加订阅"
+[save-update]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/save-update.jpg "保存订阅"
+[updating]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/updating.jpg "更新中"

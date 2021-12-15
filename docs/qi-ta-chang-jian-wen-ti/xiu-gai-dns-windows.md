@@ -1,4 +1,4 @@
-# 修改 Windows 系统网络DNS设置
+# 修改 Windows 网络DNS设置
 
 1. 鼠标右键点击桌面右下角的网络图标，选择：打开网络和共享中心
 
@@ -34,11 +34,11 @@
 7. 完毕
 
 
-[open-network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-network-setting.jpg "打开网络设置"
-[network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/network-setting.jpg "网络设置"
-[right-click-adapter]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/right-click-adapter.jpg "打开适配器属性"
-[open-ipv4-property]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-ipv4-property.jpg "打开IPv4属性"
-[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/fill-dns.jpg "填写DNS"
-[open-run]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/open-run.jpg "打开运行"
-[run-cmd]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/run-cmd.jpg "启动命令行"
-[cmd-flushdns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/faq/change-dns-windows/cmd-flushdns.jpg "刷新DNS"
+[open-network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-network-setting.jpg "打开网络设置"
+[network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/network-setting.jpg "网络设置"
+[right-click-adapter]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/right-click-adapter.jpg "打开适配器属性"
+[open-ipv4-property]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-ipv4-property.jpg "打开IPv4属性"
+[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/fill-dns.jpg "填写DNS"
+[open-run]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-run.jpg "打开运行"
+[run-cmd]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/run-cmd.jpg "启动命令行"
+[cmd-flushdns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/cmd-flushdns.jpg "刷新DNS"

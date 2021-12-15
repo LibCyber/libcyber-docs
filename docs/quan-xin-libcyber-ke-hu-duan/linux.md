@@ -16,14 +16,14 @@ sidebar_label: "Linux"
 
 ### 下载，安装，启动
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.0.AppImage)
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.1.AppImage)
 
-- 大陆网盘地址下载:https://wwi.lanzouo.com/iw4Wlx9g6od 密码:hccr
+- 大陆网盘地址下载:https://wwi.lanzouo.com/iOQdXxch1qj 密码:7a4n
 
 :::note
 ARM64架构下载地址: 
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.0-arm64.AppImage) 
-- 大陆网盘地址下载:https://wwi.lanzouo.com/ieT92x9gclg 密码:hw8i
+- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.1-arm64.AppImage) 
+- 大陆网盘地址下载:https://wwi.lanzouo.com/ixGOdxcgw5i 密码:dux8
 :::
 
 - 打开直接运行即可

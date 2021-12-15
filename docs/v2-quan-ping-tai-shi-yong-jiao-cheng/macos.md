@@ -54,11 +54,11 @@ sidebar_position: 4
 
 没有在运行状态的话，就点击下面的按钮“Turn v2core On/启动v2core”
 
-[v2u-menu-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-menu-icon.jpg "应用图标"
-[v2u-open-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-open-sub-setting.jpg "打开订阅设置"
-[sub-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-android/sub-link.jpg "复制网站订阅链接"
-[v2u-add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-add-sub.jpg "粘贴到客户端"
-[v2u-click-update]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-click-update.jpg "点击更新"
-[v2u-select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-select-node.jpg "选择节点"
-[v2u-pac-mode]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-pac-mode.jpg "选择PAC模式"
-[v2u-v2core-on]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.0/assets/v2-macos/v2u-v2core-on.jpg "确保启动状态"
+[v2u-menu-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-menu-icon.jpg "应用图标"
+[v2u-open-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-open-sub-setting.jpg "打开订阅设置"
+[sub-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/sub-link.jpg "复制网站订阅链接"
+[v2u-add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-add-sub.jpg "粘贴到客户端"
+[v2u-click-update]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-click-update.jpg "点击更新"
+[v2u-select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-select-node.jpg "选择节点"
+[v2u-pac-mode]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-pac-mode.jpg "选择PAC模式"
+[v2u-v2core-on]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-macos/v2u-v2core-on.jpg "确保启动状态"
