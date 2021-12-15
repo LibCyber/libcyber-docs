@@ -11,9 +11,9 @@
     "message": "Compatible client for High-speed node/Dedicated node plan",
     "description": "The label for category 高速/专线节点兼容型客户端 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.普通节点兼容型客户端": {
+  "sidebar.tutorialSidebar.category.普通节点客户端（已废弃）": {
     "message": "Compatible client for Basic node plan",
-    "description": "The label for category 普通节点兼容型客户端 in sidebar tutorialSidebar"
+    "description": "The label for category 普通节点客户端（已废弃） in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.其他常见问题": {
     "message": "Other FAQ",

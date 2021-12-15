@@ -38,7 +38,7 @@ sidebar_position: 2
 
 <!-- --- -->
 
-<!-- ## 普通节点-兼容性客户端
+<!-- ## 普通节点-兼容性客户端（已废弃）
 
 [点击查看 - Android（安卓）](v2-quan-ping-tai-shi-yong-jiao-cheng/android-an-zhuo.md)
 
