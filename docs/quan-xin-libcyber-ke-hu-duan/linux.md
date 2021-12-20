@@ -56,3 +56,13 @@ sudo apt-get install -y libxss1 # Ubuntu/Debian
 ```
 
 - 重试一下在终端运行 `./LibCyber*`
+
+3. 如果遇到 `error while loading shared libraries: libXcomposite.so` 相关报错
+
+在终端执行以下命令（**选择对应发行版本的指令运行**）
+```shell
+sudo apt-get install -y libxcomposite1 # Ubuntu/Debian
+# sudo yum install -y libXcomposit # Centos/Fedora
+```
+
+- 重试一下在终端运行 `./LibCyber*`
