@@ -77,6 +77,9 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} LibCyber, Inc. Built with ❤️.`,
     },
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
     // algolia: {
     //   apiKey: 'YOUR_API_KEY',
     //   indexName: 'dev_libcyber',

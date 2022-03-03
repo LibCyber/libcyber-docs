@@ -108,18 +108,18 @@ sidebar_position: 3
 - 安装时，如果出现用途选项，选择“个人使用”，不要选择商业用途，否则需要付费。
 - 安装成功后打开，把软件里面显示的ID和密码告诉客服即可，[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服。
 
-[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/app-in-dir.jpg "在文件夹中打开软件"
-[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/firewall-allow.jpg "允许通过防火墙上网"
-[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/app-in-dock.jpg "任务栏中的app"
-[open-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/open-sub-setting.jpg "打开订阅设置"
-[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/sub-setting.jpg "添加订阅"
-[copy-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/copy-link.jpg "复制订阅链接"
-[paste-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/paste-link.jpg "粘贴订阅链接"
-[update-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/update-node.jpg "更新节点"
-[update-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/update-success.jpg "更新成功"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/select-node.jpg "选择节点"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/success.jpg "成功上网"
-[copy-all-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-win/copy-all-node.jpg "复制所有节点"
+[app-in-dir]: /img/shadow-win/app-in-dir.jpg "在文件夹中打开软件"
+[firewall-allow]: /img/shadow-win/firewall-allow.jpg "允许通过防火墙上网"
+[app-in-dock]: /img/shadow-win/app-in-dock.jpg "任务栏中的app"
+[open-sub-setting]: /img/shadow-win/open-sub-setting.jpg "打开订阅设置"
+[sub-setting]: /img/shadow-win/sub-setting.jpg "添加订阅"
+[copy-link]: /img/shadow-win/copy-link.jpg "复制订阅链接"
+[paste-link]: /img/shadow-win/paste-link.jpg "粘贴订阅链接"
+[update-node]: /img/shadow-win/update-node.jpg "更新节点"
+[update-success]: /img/shadow-win/update-success.jpg "更新成功"
+[select-node]: /img/shadow-win/select-node.jpg "选择节点"
+[success]: /img/shadow-win/success.jpg "成功上网"
+[copy-all-node]: /img/shadow-win/copy-all-node.jpg "复制所有节点"
 
 
 

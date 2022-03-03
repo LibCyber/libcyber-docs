@@ -92,13 +92,13 @@ sidebar_position: 3
 - 安装时，如果出现用途选项，选择“个人使用”，不要选择商业用途，否则需要付费。
 - 安装成功后打开，把软件里面显示的ID和密码告诉客服即可，[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服。
 
-[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/app-in-dir.jpg "在文件夹中打开软件"
-[smartscreen]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/smartscreen.jpg "SmartScreen"
-[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/firewall-allow.jpg "允许通过防火墙上网"
-[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/login.jpg "登录"
-[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/app-in-dock.jpg "任务栏中的app"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/select-node.jpg "选择节点"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/success.jpg "成功上网"
+[app-in-dir]: /img/pirate-windows/app-in-dir.jpg "在文件夹中打开软件"
+[smartscreen]: /img/pirate-windows/smartscreen.jpg "SmartScreen"
+[firewall-allow]: /img/pirate-windows/firewall-allow.jpg "允许通过防火墙上网"
+[login]: /img/pirate-windows/login.jpg "登录"
+[app-in-dock]: /img/pirate-windows/app-in-dock.jpg "任务栏中的app"
+[select-node]: /img/pirate-windows/select-node.jpg "选择节点"
+[success]: /img/pirate-windows/success.jpg "成功上网"
 
 
 

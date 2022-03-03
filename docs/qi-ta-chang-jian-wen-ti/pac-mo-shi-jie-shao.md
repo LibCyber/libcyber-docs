@@ -22,5 +22,5 @@
 4. 其他模式不常用可以自行脑补。
 
 
-[pac-in-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/pac-in-menu.jpg "pac菜单"
-[pac-full-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/pac-full-menu.jpg "所有pac规则"
+[pac-in-menu]: /img/faq/pac-in-menu.jpg "pac菜单"
+[pac-full-menu]: /img/faq/pac-full-menu.jpg "所有pac规则"

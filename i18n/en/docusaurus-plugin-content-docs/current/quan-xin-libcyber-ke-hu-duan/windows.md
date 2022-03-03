@@ -73,9 +73,9 @@ Answer: The computer time is calibrated to Beijing time, and then after exiting 
 - During installation, if there is a use option, select "Personal Use", do not select commercial use, otherwise you will need to pay.
 - After the installation is successful, open it and tell the customer service the ID and password displayed in the software, [click here](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa- fbeac29d2be6) Find customer service.
 
-[app-in-dir]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/app-in-dir.jpg "Open the software in the folder "
-[firewall-allow]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/firewall-allow.jpg "Allow Internet access through firewall"
-[login]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/login.jpg "Login"
-[app-in-dock]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/app-in-dock.jpg "app in the taskbar"
-[select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/select-node.jpg "Select Node"
-[success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/pirate-windows/success.jpg "Successfully surfed the Internet"
+[app-in-dir]: /img/pirate-windows/app-in-dir.jpg "Open the software in the folder "
+[firewall-allow]: /img/pirate-windows/firewall-allow.jpg "Allow Internet access through firewall"
+[login]: /img/pirate-windows/login.jpg "Login"
+[app-in-dock]: /img/pirate-windows/app-in-dock.jpg "app in the taskbar"
+[select-node]: /img/pirate-windows/select-node.jpg "Select Node"
+[success]: /img/pirate-windows/success.jpg "Successfully surfed the Internet"

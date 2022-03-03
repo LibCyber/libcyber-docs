@@ -33,7 +33,7 @@ This page introduces how to use the Fancyss plug-in on Merlin
 
 
 
-[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/sub-setting.jpg "Open update management"
-[add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/add-sub.jpg "Add Subscription"
-[save-update]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/save-update.jpg "Save Subscription"
-[updating]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/shadow-merlin/updating.jpg "Updating"
+[sub-setting]: /img/shadow-merlin/sub-setting.jpg "Open update management"
+[add-sub]: /img/shadow-merlin/add-sub.jpg "Add Subscription"
+[save-update]: /img/shadow-merlin/save-update.jpg "Save Subscription"
+[updating]: /img/shadow-merlin/updating.jpg "Updating"

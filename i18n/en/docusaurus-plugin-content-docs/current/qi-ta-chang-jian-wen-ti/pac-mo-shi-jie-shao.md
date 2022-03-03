@@ -20,5 +20,5 @@ As the name suggests, the following modes are more commonly used:
 4. Other modes are not commonly used, you can make up your own brain.
 
 
-[pac-in-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/pac-in-menu.jpg "pac menu"
-[pac-full-menu]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/pac-full-menu.jpg "All pac rules"
+[pac-in-menu]: /img/faq/pac-in-menu.jpg "pac menu"
+[pac-full-menu]: /img/faq/pac-full-menu.jpg "All pac rules"

@@ -45,11 +45,11 @@ Update pac automatic diversion rules
 You're done, you can browse the Internet.
 
 
-[v2n-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-icon.jpg "application icon"
-[v2n-back-icon]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-back-icon.jpg "Taskbar icon"
-[v2n-sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-sub-setting.jpg "Open subscription settings"
-[v2n-add-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-add-sub.jpg "Add Subscription"
-[v2n-update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-update-sub.jpg "Update Subscription"
-[v2n-update-node-success]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-update-node-success.jpg "Subscription is successful "
-[v2n-select-node]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-select-node.jpg "Select Node"
-[v2n-select-pac]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-windows/v2n-select-pac.jpg "Update pac smart distribution rules"
+[v2n-icon]: /img/v2-windows/v2n-icon.jpg "application icon"
+[v2n-back-icon]: /img/v2-windows/v2n-back-icon.jpg "Taskbar icon"
+[v2n-sub-setting]: /img/v2-windows/v2n-sub-setting.jpg "Open subscription settings"
+[v2n-add-sub]: /img/v2-windows/v2n-add-sub.jpg "Add Subscription"
+[v2n-update-sub]: /img/v2-windows/v2n-update-sub.jpg "Update Subscription"
+[v2n-update-node-success]: /img/v2-windows/v2n-update-node-success.jpg "Subscription is successful "
+[v2n-select-node]: /img/v2-windows/v2n-select-node.jpg "Select Node"
+[v2n-select-pac]: /img/v2-windows/v2n-select-pac.jpg "Update pac smart distribution rules"

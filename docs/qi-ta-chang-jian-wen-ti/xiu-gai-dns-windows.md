@@ -34,11 +34,11 @@
 7. 完毕
 
 
-[open-network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-network-setting.jpg "打开网络设置"
-[network-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/network-setting.jpg "网络设置"
-[right-click-adapter]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/right-click-adapter.jpg "打开适配器属性"
-[open-ipv4-property]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-ipv4-property.jpg "打开IPv4属性"
-[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/fill-dns.jpg "填写DNS"
-[open-run]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/open-run.jpg "打开运行"
-[run-cmd]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/run-cmd.jpg "启动命令行"
-[cmd-flushdns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-windows/cmd-flushdns.jpg "刷新DNS"
+[open-network-setting]: /img/faq/change-dns-windows/open-network-setting.jpg "打开网络设置"
+[network-setting]: /img/faq/change-dns-windows/network-setting.jpg "网络设置"
+[right-click-adapter]: /img/faq/change-dns-windows/right-click-adapter.jpg "打开适配器属性"
+[open-ipv4-property]: /img/faq/change-dns-windows/open-ipv4-property.jpg "打开IPv4属性"
+[fill-dns]: /img/faq/change-dns-windows/fill-dns.jpg "填写DNS"
+[open-run]: /img/faq/change-dns-windows/open-run.jpg "打开运行"
+[run-cmd]: /img/faq/change-dns-windows/run-cmd.jpg "启动命令行"
+[cmd-flushdns]: /img/faq/change-dns-windows/cmd-flushdns.jpg "刷新DNS"

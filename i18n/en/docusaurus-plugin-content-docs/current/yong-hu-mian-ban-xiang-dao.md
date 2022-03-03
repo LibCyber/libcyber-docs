@@ -79,12 +79,12 @@ Currently, you have three ways to get in touch with this site:
 
 
 
-[user-center]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/user-center.jpg "Personal Center"
-[nodelist]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/nodelist.jpg "Node List 1"
-[nodelist2]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/nodelist2.jpg "Node List 2"
-[service]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/service.jpg "Purchase Plan"
-[payment]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/payment.jpg "payment page"
-[invoice]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/invoice.jpg "Invoice page"
-[tickets]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/tickets.jpg "Ticket Consultation Page"
-[invite-code]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/invite-code.jpg "Invite Code Page"
-[referral]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/panel-guide/referral.jpg "Promotional rebates"
+[user-center]: /img/panel-guide/user-center.jpg "Personal Center"
+[nodelist]: /img/panel-guide/nodelist.jpg "Node List 1"
+[nodelist2]: /img/panel-guide/nodelist2.jpg "Node List 2"
+[service]: /img/panel-guide/service.jpg "Purchase Plan"
+[payment]: /img/panel-guide/payment.jpg "payment page"
+[invoice]: /img/panel-guide/invoice.jpg "Invoice page"
+[tickets]: /img/panel-guide/tickets.jpg "Ticket Consultation Page"
+[invite-code]: /img/panel-guide/invite-code.jpg "Invite Code Page"
+[referral]: /img/panel-guide/referral.jpg "Promotional rebates"

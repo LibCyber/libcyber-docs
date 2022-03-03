@@ -19,6 +19,6 @@
 
 8. 完毕
 
-[system-preferences]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/system-preferences.jpg "系统偏好设置"
-[network]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/network.jpg "网络设置"
-[fill-dns]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/faq/change-dns-macos/fill-dns.jpg "填写DNS"
+[system-preferences]: /img/faq/change-dns-macos/system-preferences.jpg "系统偏好设置"
+[network]: /img/faq/change-dns-macos/network.jpg "网络设置"
+[fill-dns]: /img/faq/change-dns-macos/fill-dns.jpg "填写DNS"

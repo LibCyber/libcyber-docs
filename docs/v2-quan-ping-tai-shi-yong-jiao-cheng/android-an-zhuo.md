@@ -41,7 +41,7 @@ sidebar_position: 1
 
 选择任意国家地区命名的节点，点击右下角图标连接。第一次链接需要授权，点击允许即可。
 
-[sub-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/sub-link.jpg "复制订阅链接"
-[sub-setting]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/sub-setting.jpg "打开订阅设置"
-[paste-link]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/paste-link.jpg "粘贴订阅链接"
-[update-sub]: https://cdn.jsdelivr.net/gh/LibCyber/docs-cdn@v1.1.1/assets/v2-android/update-sub.jpg "更新订阅"
+[sub-link]: /img/v2-android/sub-link.jpg "复制订阅链接"
+[sub-setting]: /img/v2-android/sub-setting.jpg "打开订阅设置"
+[paste-link]: /img/v2-android/paste-link.jpg "粘贴订阅链接"
+[update-sub]: /img/v2-android/update-sub.jpg "更新订阅"
