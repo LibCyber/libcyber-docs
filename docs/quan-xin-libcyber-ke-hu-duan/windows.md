@@ -16,9 +16,9 @@ sidebar_position: 3
 如果您正在使用Windows7或更低版本系统，配置好后仍无法上网或者显示`400 Bad Request`，请更换兼容性客户端使用，[点此打开](../quan-ping-tai-shi-yong-jiao-cheng-1/windows.md)
 :::
 ### 下载，安装，启动
-- [本站下载地址](https://panel.libcyber.xyz/clients/LibCyber-V1.3.1.exe.zip)
+- [本站下载地址](https://panel.libcyber.xyz/clients/V1.3.6/win32/LibCyber-V1.3.6.zip)
 
-- 大陆网盘地址下载:https://wwi.lanzouo.com/ifJTHxcgceh 密码:bd8y
+- 大陆网盘地址下载:https://wwa.lanzouj.com/iekOp00zrb4d 密码:8mem
 
 - 下载后打开，双击安装程序运行一键安装。⚠️如果出现 Smart Screen 蓝屏拦截，点击“高级信息”=>“仍要运行”。本软件安全无毒，可用任何国际知名杀毒软件检查。由于管制，暂未于大陆注册，故出现此提示。
 
