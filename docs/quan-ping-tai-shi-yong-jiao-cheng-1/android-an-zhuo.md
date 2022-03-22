@@ -8,6 +8,10 @@ sidebar_position: 1
 这个页面介绍如何使用安卓上的LibCyber客户端
 :::
 
+:::caution
+如果需要使用WhatsApp电话，请使用Clash客户端，[点此跳转](./android-clash.md)
+:::
+
 ### 下载，安装，启动
 - [点击此处](https://panel.libcyber.xyz/clients/libcyber-android.apk)下载客户端，中国大陆网盘链接：[https://wwi.lanzoui.com/ia6x1ch](https://wwi.lanzoui.com/ia6x1ch) 密码:aofd
 
