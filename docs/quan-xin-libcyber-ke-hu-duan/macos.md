@@ -14,13 +14,13 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/darwin/LibCyber-V1.4.2.dmg) 
+- [本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/darwin/LibCyber-V2.0.0.dmg) 
 
-- 大陆网盘地址下载:https://wwm.lanzouj.com/i35Nu01urc6h 密码:7ufz
+- 大陆网盘地址下载:https://wwm.lanzouj.com/i0zGm03ljnah 密码:39bu
 
 :::tip
-M1芯片版：[本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/darwin/LibCyber-V1.4.2-arm64.dmg) 
-大陆网盘下载:https://wwm.lanzouj.com/iasyv01ur9wf 密码:fetf
+M1芯片版：[本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/darwin/LibCyber-V2.0.0-arm64.dmg) 
+大陆网盘下载:https://wwm.lanzouj.com/i3thR03ljotc 密码:f8fy
 :::
 
 ![软件图标][dmg-icon]
@@ -38,7 +38,7 @@ M1芯片版：[本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/dar
 - 首次打开可能遇到【无法打开xxx，因为Apple无法检查其是否包含恶意软件】
 
 :::caution
-本软件安全绿色，出现该提示仅因暂未在苹果注册
+本软件安全绿色，可用任何国际知名杀毒软件检查。由于管制，暂未于大陆注册，故出现此提示。
 :::
 
 ![首次打开1][first-launch-1]
@@ -94,6 +94,10 @@ M1芯片版：[本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/dar
 
 ---
 ### 疑难解答
+
+- M1 Macbook显示无法打开APP “LibCyber Desktop” is damaged and can’t be opened. You should move it to the Trash. 
+
+回答：打开系统上的“终端.app”，在命令行中输入`sudo xattr -r -d com.apple.quarantine /Applications/LibCyber\ Desktop.app`进行文件重新校验，然后重新打开LibCyber Desktop
 
 - 软件内无法登陆，一直显示密码错误或者网络问题
 

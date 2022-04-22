@@ -16,11 +16,11 @@ sidebar_label: "Linux"
 
 ### 下载，安装，启动
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/linux/LibCyber-V1.4.2.AppImage)
+- [本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/linux/LibCyber-V2.0.0.AppImage)
 
-:::note
+:::tip
 ARM64架构下载地址: 
-- [本站下载地址](https://panel.libcyber.xyz/clients/V1.4.2/linux/LibCyber-V1.4.2-arm64.AppImage) 
+- [本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/linux/LibCyber-V2.0.0-arm64.AppImage) 
 :::
 
 - 打开直接运行即可
