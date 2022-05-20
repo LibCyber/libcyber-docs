@@ -26,7 +26,7 @@ sidebar_position: 1
 ![填写配置][profile-fill-reference]
 
 :::tip
-Clash订阅链接可以LibCyber[节点列表页面](https://panel.libcyber.xyz/nodeList)中，点击“进阶订阅”按钮查看，点击“进阶订阅”按钮查看，点击“进阶订阅”按钮查看，重要事情说三遍
+Clash订阅链接可以LibCyber[节点列表页面](https://panel.libcyber.xyz/nodeList)中复制，打开节点列表页面就能看到“默认订阅地址”，复制下一行的链接文本即可
 :::
 
 - 点击右上角保存

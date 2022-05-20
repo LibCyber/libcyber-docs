@@ -15,9 +15,17 @@
     "message": "Compatible client for Basic node plan",
     "description": "The label for category 普通节点客户端（已废弃） in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.其他常见问题": {
+  "sidebar.tutorialSidebar.category.其他问题": {
     "message": "Other FAQ",
     "description": "The label for category 其他常见问题 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.无法连接或软件联网失败": {
+    "message": "Network Failure",
+    "description": "The label for category 无法连接或软件联网失败 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.自定义分流规则": {
+    "message": "Custom Routing Rules",
+    "description": "The label for category 自定义分流规则 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.优惠政策": {
     "message": "Discount Policy",

@@ -14,14 +14,14 @@ sidebar_position: 4
 
 （如需**远程协助**完成所有配置，可以下载本页底部远程软件，然后[点此处](https://go.crisp.chat/chat/embed/?website_id=9bf1c6d9-b23b-4b0c-95aa-fbeac29d2be6)找客服）
 
-- [本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/darwin/LibCyber-V2.0.0.dmg) 
+- [本站下载地址](https://panel.libcyber.xyz/clients/V2.0.2/darwin/LibCyber-V2.0.2.dmg) 
 
-- 大陆网盘地址下载:https://wwm.lanzouj.com/i0zGm03ljnah 密码:39bu
+- 大陆网盘地址下载:https://wwm.lanzouj.com/iwYME04yecbg 密码:4ptw
 
-:::tip
+<!-- :::tip
 M1芯片版：[本站下载地址](https://panel.libcyber.xyz/clients/V2.0.0/darwin/LibCyber-V2.0.0-arm64.dmg) 
 大陆网盘下载:https://wwm.lanzouj.com/i3thR03ljotc 密码:f8fy
-:::
+::: -->
 
 ![软件图标][dmg-icon]
 

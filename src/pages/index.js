@@ -24,7 +24,7 @@ function HomepageHeader() {
             to="/docs/intro">
               <Translate
                 id="intro.start">
-                LibCyber 教程 - 5分钟上手 ⏱️
+                点此5分钟上手 ⏱️
               </Translate>
           </Link>
         </div>
